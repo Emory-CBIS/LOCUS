@@ -13,10 +13,6 @@ with universal sparsity to reveal sub brain networks.
 
 -----
 
-## Installation
-
------
-
 ## Usage
 
 Below is an illustration of the the main function on simulated data.
